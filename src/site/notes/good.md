@@ -3,3 +3,7 @@
 ---
 
 dawdwad
+
+$$
+d(t) = k\int
+$$
